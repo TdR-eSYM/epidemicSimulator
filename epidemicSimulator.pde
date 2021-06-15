@@ -56,7 +56,7 @@ void draw() {
   // Show simulation GUI
   fill(0);
   text("Agents: " + walkers.length, 6, 10);
-  text("Suceptible: " + (walkers.length-infected-dead-immune), 6, 20);
+  text("Susceptible: " + (walkers.length-infected-dead-immune), 6, 20);
   text("Recovered: " + immune, 6, 30);
   text("Infectious: " + infected, 6, 40);
   text("Dead: " + dead, 6, 50);
