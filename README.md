@@ -1,5 +1,5 @@
 # epidemicSimulator
-**This has been archived as a new version of the simulator is being developed from scratch.**
+**This has been archived as a [new version](https://github.com/TdR-eSYM/epidemicSimulatorV2) of the simulator is being developed from scratch.**
 
 A Processing simple epidemic simulator using normal distributions.
 
