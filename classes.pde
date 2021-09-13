@@ -75,7 +75,7 @@ class Walker {
     y = constrain(y, 0, height-1);
   }
   
-  // Agent falls on two of the defined states when infected
+  // Agent falls on one of the two defined states when infected
   void outcome(float die, float recover) {
     if (inf) {
       if (random(1) < die/frameRate) {
